@@ -14,7 +14,7 @@ Program loni skončil, a proto bohužel nemůžu tento systém nasdílet nebo do
 
 - 📄 [`airtable-dashboard-export.pdf`](./airtable-dashboard-export.pdf) — ukázka dashboardu exportovaného z Airtable
 - 🎥 `airtable-dashboard-preview.mov` — krátké video s náhledem dashboardu *(needs upload)*
-- 📄 `mission-measurement-reporting-dashboard.pdf` — reporting dashboard *(needs upload)*
+- 📄 `mission-measurement-reporting-dashboard.pdf` — reporting dashboard
 - 🎥 `report-mentioning-airtable.mov` — report, kde je Airtable přímo zmíněn *(needs upload)*
 - 🖼️ `screenshot-report-airtable.png` — screenshot zmínky o Airtable v reportu *(needs upload)*
 
