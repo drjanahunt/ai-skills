@@ -1,4 +1,4 @@
-# Agency
+# Some Call It Agency. I Just Call It Who I Am
 
 For most of my adult life, I followed a script that looked successful from the outside.
 
