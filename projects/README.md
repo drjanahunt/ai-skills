@@ -61,10 +61,10 @@ Video ukazuje přehled mých aktivních automatizací (flows) v Google Workspace
 
 **Dva Claude skilly, které jsem vytvořila a používám pro reálnou práci – ne jen jako ukázky**
 
-Skill je sada instrukcí, která Claude naučí, jak správně zvládnout konkrétní opakující se úkol – pokaždé stejně, aniž bych musela znovu od začátku vysvětlovat pravidla v každé konverzaci. Jeden je hluboká doménová expertíza proměněná v opakovaně použitelný proces. Druhý je běžný provozní úkol automatizovaný od začátku do konce.
+Skill je sada instrukcí, která Claude naučí, jak správně zvládnout konkrétní opakující se úkol – pokaždé stejně, aniž bych musela znovu od začátku vysvětlovat pravidla v každé konverzaci. Jeden je hluboká doménová expertíza proměněná v opakovaně použitelný proces. Druhý je běžný provozní úkol automatizovaný od začátku do konce. Plný popis obou skillů: [`/skills`](../skills).
 
-- 📁 [`barometer-report/SKILL.md`](../barometer-report/SKILL.md)
-- 📁 [`rename-invoices/SKILL.md`](../rename-invoices/SKILL.md)
+- 📁 [`barometer-report-SKILL.md`](../skills/barometer-report-SKILL.md)
+- 📁 [`rename-invoices-SKILL-anonymised.md`](../skills/rename-invoices-SKILL-anonymised.md)
 - 🎥 [`Jak-jsem-Claude-naucila-skill.mp4`](./Jak-jsem-Claude-naucila-skill.mp4) — video z procesu, kdy jsem Claude naučila skill na přejmenovávání faktur
 
 ---
