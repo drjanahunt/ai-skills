@@ -2,40 +2,13 @@
 
 A look at how I actually use AI for real work — not demos.
 
-## Projects
+This repo is organised into two parts:
 
-For an overview of what I've been building recently — an Airtable system for a multi-million
-crown programme, a self-built health app, a personal dashboard, automations, and a research
-podcast turned into audio — see [`/projects`](./projects).
-
-## Claude Skills
-
-Two Claude skills I built and use for real work, included below.
-
-A skill is a set of instructions that teaches Claude how to handle a specific recurring task
-correctly, every time, without me re-explaining the rules from scratch in each conversation.
-These two solve problems I actually had.
-
-### barometer-report
-
-A workflow for producing research-quality analytical reports from raw survey data — built from
-several years of experience running a longitudinal MSE (micro and small enterprise) barometer
-study. It encodes the rules that separate a competent first-pass analysis from a genuinely
-rigorous one: correct terminology, segmentation discipline, denominator accuracy, longitudinal
-framing, and a calibrated, non-overclaiming tone. This is domain expertise — the kind that
-normally takes years to develop — captured so it can be applied consistently and reused.
-
-### rename-invoices
-
-An automation that scans a folder for unfiled invoice PDFs, reads each one to identify the
-vendor and date, renames it to a consistent format, and files it into the correct monthly
-folder. Built to remove a small but recurring piece of admin from my own workflow. It also
-handles the practical edge cases that come up in real use — like files that look present but
-are actually still cloud-only and haven't downloaded yet.
-
-### Why these two together
-
-One is deep domain expertise turned into a reusable process. The other is an everyday
-operational task automated end to end. Different problems, same underlying approach: figure out
-the rules an expert would follow, write them down clearly enough that an AI can apply them
-consistently, and let it run the task instead of doing it by hand each time.
+- **[`/projects`](./projects)** — what I've been building recently: an Airtable system for a
+  multi-million crown programme, a self-built health app, a personal dashboard, automations, and
+  a research podcast turned into audio.
+- **[`/skills`](./skills)** — two Claude skills I built and use for real work. A skill is a set
+  of instructions that teaches Claude how to handle a specific recurring task correctly, every
+  time, without me re-explaining the rules from scratch in each conversation. These two solve
+  problems I actually had: one turns years of research expertise into a repeatable analysis
+  process, the other automates a small but recurring piece of admin end to end.
