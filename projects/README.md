@@ -35,7 +35,7 @@ My Hub je osobní dashboard, který jsem si navrhla a postavila v Claude Design.
 
 Dashboard obsahuje sekce Overview, Health, Fitness, Plans, Fasting, Cycle, Meetings, Travel a Mindfulness, s přehledem denního programu a health score na první pohled.
 
-- 🌐 [`My Hub Dashboard.html`](./My%20Hub%20Dashboard.html) — funkční HTML export dashboardu
+- 🎥 [`MyHub-v-ClaudeDesign.mov`](./MyHub-v-ClaudeDesign.mov) — video s náhledem My Hub
 
 ---
 
