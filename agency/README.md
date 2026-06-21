@@ -6,7 +6,7 @@ I built a career in academia, started a business, won awards, completed a doctor
 an MBA. Each achievement led naturally to the next. More responsibility. More projects. More
 commitments. More things to manage.
 
-And for a long time, I assumed that was what success looked like. However, success can create its own
+And for a long time, I assumed that was what success looked like. Success can create its own
 momentum. The things that bring opportunities, recognition, and achievement can become difficult
 to step away from, even when they no longer align with who you are becoming.
 
@@ -39,7 +39,7 @@ to build, and whether my commitments still support that vision. Sometimes that h
 difficult choices, letting go of things I had invested years into, and accepting uncertainty in
 exchange for greater alignment with my values and priorities.
 
-🔗 [On reshaping how I work, on my own terms](https://www.linkedin.com/posts/drjanahunt) —
+🔗 [On reshaping how I work, on my own terms](https://www.linkedin.com/feed/update/urn:li:activity:7417981871734734848/) —
 LinkedIn
 
 Looking back, the common thread running through my career has not been research,
