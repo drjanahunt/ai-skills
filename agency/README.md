@@ -22,29 +22,34 @@ deciding what came next, I needed to pause and consciously choose new ones.
 🎓 [Executive summary, MBA dissertation](./Executive%20summary%20MBA%20dissertation.pdf)
 
 That process eventually led me to leave the academic career I had spent years building, sell the
-business I had spent years growing, and step away from paths that no longer felt aligned with
-the life I wanted. Rather than moving directly into the next role or project, I spent several
-months travelling through South East Asia, creating space to reflect on what mattered most and
-how I wanted the next chapter of my life to look.
+business I had spent years growing, and step away from paths that were objectively successful
+but no longer aligned with the life I wanted. Rather than moving directly into the next role or
+project, I spent several months travelling through South East Asia, creating space to reflect on
+what mattered most and how I wanted the next chapter of my life to look.
 
-None of those decisions were forced upon me. They were choices. I wrote about that decision
-publicly, not to explain it after the fact, but because naming it mattered as much as making it.
+None of those decisions were forced upon me. They were choices that came from recognising that
+continuing on the same path would have been the easier option, but not the right one. I wrote
+about that decision publicly, not to explain it after the fact, but because naming it mattered as
+much as making it.
 
 🔗 [Why did I give it up when I "had it all"](https://www.linkedin.com/pulse/pain-pressure-letting-go-dr-jana-hunt-mba-m9eyf/) — LinkedIn
 
 I have learned that some of the most important decisions in my life have come from stepping back
-and questioning the direction I was heading. Rather than continuing down a path simply because
-it was working, I have tried to regularly reassess what matters to me, what kind of life I want
-to build, and whether my commitments still support that vision. Sometimes that has meant making
+and questioning the direction I was heading. Rather than continuing down a path simply because it
+was working, I have tried to regularly reassess what matters to me, what kind of life I want to
+build, and whether my commitments still support that vision. Sometimes that has meant making
 difficult choices, letting go of things I had invested years into, and accepting uncertainty in
 exchange for greater alignment with my values and priorities.
 
-🔗 [On reshaping how I work, on my own terms](https://www.linkedin.com/feed/update/urn:li:activity:7417981871734734848/) —
-LinkedIn
+🔗 [On reshaping how I work, on my own terms](https://www.linkedin.com/feed/update/urn:li:activity:7417981871734734848/) — LinkedIn
 
 Looking back, the common thread running through my career has not been research,
 entrepreneurship, education, or consulting. It has been a willingness to question assumptions,
 challenge my own definitions of success, and consciously choose a new direction when the old one
 no longer felt right.
+
+I do not see the future as something fixed waiting to happen. I see it as something that can be
+shaped through deliberate choices, even when those choices involve uncertainty, reinvention, or
+letting go of things that are already working.
 
 That, for me, is agency.
